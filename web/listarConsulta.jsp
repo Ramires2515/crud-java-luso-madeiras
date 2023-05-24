@@ -22,8 +22,8 @@
                     <th>Data</th>
                     <th>Horário</th>
                     <th>Situação</th>
-                    <th>Médico</th>
-                    <th>Paciente</th>
+                    <th>Madeiras</th>
+                    <th>Funcionários</th>
                     <th colspan="2">Ações</th>
                 </tr>
             </thead>

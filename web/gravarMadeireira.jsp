@@ -3,7 +3,7 @@
 <jsp:include page="/cabecalho.jsp"/>
 <div class="card">
     <div class="card-header text-center">
-        <h1>Nova consulta</h1>
+        <h1>Nova Madeira</h1>
     </div>
     <div class="card-body">
         <c:if test="${mensagem != null}">
